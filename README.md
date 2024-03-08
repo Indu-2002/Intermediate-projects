@@ -1,5 +1,6 @@
 # Intermediate-projects
 This consists of intermediate projects such as Chatbot development and Python Voice assistant using python.
+
 Chatbot Development:
 Chatbot development involves creating a computer program that simulates human conversation. Using natural language processing (NLP), chatbots understand and respond to user queries. Developers define the chatbot's purpose, choose technology, design conversation flow, implement code, integrate APIs, test, and deploy.
 
